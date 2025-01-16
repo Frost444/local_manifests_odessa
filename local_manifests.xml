@@ -23,7 +23,7 @@
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
-           remote="crdroid"
+           remote="LineageOS"
            revision="lineage-22.1" />
   
   <project path="system/qcom"
