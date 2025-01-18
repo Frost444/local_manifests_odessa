@@ -18,7 +18,7 @@
            
   <project path="kernel/motorola/sm6150"
            name="kernel_motorola_liber"
-           remote="Thiago"
+           remote="Thiago22"
            revision="qpr3" />
 
   <project path="vendor/motorola"
