@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="cool585" fetch="https://github.com/cool585"/>
+  <remote name="moto" fetch="https://github.com/sm6150-motorola"/>
   <remote name="BarryBlackCat" fetch="https://github.com/BarryBlackCat"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
   <remote name="Thiago" fetch="https://github.com/thiagochizz44"/>
@@ -18,8 +18,8 @@
            
   <project path="kernel/motorola/sm6150"
            name="android_kernel_motorola_sm6150"
-           remote="BarryBlackCat"
-           revision="lineage-20.0" />
+           remote="moto"
+           revision="lineage-19.1" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
