@@ -17,9 +17,9 @@
            revision="dot" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
-           remote="Thiago22"
-           revision="qpr3" />
+           name="android_kernel_motorola_sm6150"
+           remote="BarryBlackCat"
+           revision="lineage-20.0" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
