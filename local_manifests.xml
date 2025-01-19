@@ -12,7 +12,7 @@
            revision="crdroid" />
            
   <project path="device/motorola/sm6150-common"
-           name="android_device_motorola_sm6150-common"
+           name="device_motorola_sm6150-common-15"
            remote="Thiago"
            revision="fifteen" />
            
