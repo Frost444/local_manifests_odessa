@@ -7,19 +7,19 @@
   
 <!--Trees-->
   <project path="device/motorola/odessa"
-           name="device_12"
+           name="device_11"
            remote="Thiago"
-           revision="lineage-19.1" />
+           revision="thirteen" />
            
   <project path="device/motorola/sm6150-common"
-           name="common_12"
+           name="common_11"
            remote="Thiago"
-           revision="lineage-19.1" />
+           revision="11" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="androi_kernel_motorola_sm6150.git"
            remote="Thiago22"
-           revision="qpr3" />
+           revision="lineage-20.0" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
