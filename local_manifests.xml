@@ -9,7 +9,7 @@
   <project path="device/motorola/odessa"
            name="device_11"
            remote="Thiago"
-           revision="thirteen" />
+           revision="dot" />
            
   <project path="device/motorola/sm6150-common"
            name="common_11"
@@ -17,9 +17,9 @@
            revision="11" />
            
   <project path="kernel/motorola/sm6150"
-           name="androi_kernel_motorola_sm6150"
+           name="android_kernel_motorola_sm6150"
            remote="Thiago22"
-           revision="lineage-20.0" />
+           revision="a11" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
