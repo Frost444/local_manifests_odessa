@@ -9,7 +9,7 @@
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa-13"
            remote="Thiago"
-           revision="crdroid" />
+           revision="pixelos" />
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common-15"
