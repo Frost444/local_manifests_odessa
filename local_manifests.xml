@@ -17,9 +17,9 @@
            revision="11" />
            
   <project path="kernel/motorola/sm6150"
-           name="androi_kernel_motorola_sm6150"
-           remote="Thiago22"
-           revision="test11" />
+           name="android_kernel_motorola_sm6150-11"
+           remote="Thiago"
+           revision="los20" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
