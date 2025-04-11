@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="moto" fetch="https://github.com/sm6150-motorola"/>
+  <remote name="moto" fetch="https://github.com/InVictusXV"/>
   <remote name="BarryBlackCat" fetch="https://github.com/BarryBlackCat"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
   <remote name="Thiago" fetch="https://github.com/thiagochizz44"/>
@@ -16,10 +16,10 @@
            remote="Thiago"
            revision="11" />
            
-  <project path="kernel/motorola/sm6150"
-           name="android_kernel_motorola_sm6150-11"
-           remote="Thiago"
-           revision="los20" />
+  <project path="device/motorola/odessa-kernel"
+           name="device_xiaomi_courbet-kernel"
+           remote="moto"
+           revision="13" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
