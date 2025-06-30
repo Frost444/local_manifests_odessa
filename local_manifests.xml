@@ -3,17 +3,18 @@
   <remote name="cool585" fetch="https://github.com/cool585"/>
   <remote name="LineageOS" fetch="https://github.com/LineageOS"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
+  <remote name="frost" fetch="https://github.com/Frost444"/>
   <remote name="Thiago" fetch="https://github.com/thiagochizz44"/>
   
 <!--Trees-->
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa-13"
-           remote="Thiago"
-           revision="pixelos" />
+           remote="frost"
+           revision="pb" />
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common-15"
-           remote="Thiago"
+           remote="frost"
            revision="fourteen" />
            
   <project path="kernel/motorola/sm6150"
