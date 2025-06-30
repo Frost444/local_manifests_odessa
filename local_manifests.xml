@@ -2,6 +2,7 @@
 <manifest>
   <remote name="cool585" fetch="https://github.com/cool585"/>
   <remote name="LineageOS" fetch="https://github.com/LineageOS"/>
+  <remote name="Frost" fetch="https://github.com/Frost444"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
   <remote name="Thiago" fetch="https://github.com/thiagochizz44"/>
   
