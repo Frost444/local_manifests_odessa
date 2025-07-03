@@ -29,6 +29,6 @@
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
-           remote="Thiago22"
+           remote="frost"
            revision="fifteen" />  
 </manifest>
