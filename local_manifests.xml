@@ -30,5 +30,5 @@
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
            remote="frost"
-           revision="fifteen" />  
+           revision="fifteen-1" />  
 </manifest>
