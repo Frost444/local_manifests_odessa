@@ -32,13 +32,8 @@
            remote="LineagOS"
            revision="lineage-22.2" />
 
-  <project path="vendor/motorola/odessa"
-           name="proprietary_vendor_motorola_odessa"
-           remote="frost"
-           revision="15.0-QPR2" />  
-  
-  <project path="vendor/motorola/sm6150-common"
-           name="proprietary_vendor_motorola_sm6150-common"
-           remote="frost"
-           revision="15.0-QPR2" />  
+  <project path="vendor/motorola"
+           name="proprietary_vendor_motorola"
+           remote="Thiago22"
+           revision="fifteen" />  
 </manifest>
