@@ -26,11 +26,6 @@
            name="android_hardware_motorola"
            remote="LineagOS"
            revision="lineage-22.2" />
-  
-  <project path="system/qcom"
-           name="android_system_qcom"
-           remote="LineagOS"
-           revision="lineage-22.2" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
