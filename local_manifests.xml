@@ -20,12 +20,7 @@
   <project path="kernel/motorola/sm6150"
            name="kernel_motorola_liber"
            remote="frost"
-           revision="sap15" />
-
-    <project path="hardware/motorola"
-           name="android_hardware_motorola"
-           remote="LineagOS"
-           revision="lineage-22.2" />
+           revision="sap16" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
