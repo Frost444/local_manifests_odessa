@@ -22,6 +22,11 @@
            remote="frost"
            revision="sap16" />
 
+  <project path="hardware/motorola"
+           name="android_hardware_motorola"
+           remote="LineagOS"
+           revision="lineage-23.0" />
+
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
            remote="frost"
