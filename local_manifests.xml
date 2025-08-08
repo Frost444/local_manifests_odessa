@@ -10,7 +10,7 @@
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa-13"
            remote="frost"
-           revision="infinityx" />
+           revision="qpr2" />
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
