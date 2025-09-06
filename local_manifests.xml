@@ -15,12 +15,12 @@
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common-15"
            remote="frost"
-           revision="fourteen" />
+           revision="fourteen-test" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="kernel_motorola_illinois"
            remote="frost"
-           revision="sap" />
+           revision="fushiguro" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
