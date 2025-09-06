@@ -13,27 +13,27 @@
            revision="crdroid" />
            
   <project path="device/motorola/sm6150-common"
-           name="device_motorola_sm6150-common-15"
+           name="android_device_motorola_sm6150-common-13"
            remote="frost"
-           revision="fourteen-test" />
+           revision="thirteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_illinois"
+           name="android_kernel_motorola_sm6150-13"
            remote="frost"
-           revision="fushiguro" />
+           revision="lineage-20.0" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
            remote="LineagOS"
-           revision="lineage-21" />
+           revision="lineage-20" />
   
   <project path="system/qcom"
            name="android_system_qcom"
            remote="LineagOS"
-           revision="lineage-21" />
+           revision="lineage-20" />
 
   <project path="vendor/motorola"
-           name="proprietary_vendor_motorola"
-           remote="Thiago22"
-           revision="qpr3" />  
+           name="proprietary_vendor_motorola-13"
+           remote="frost"
+           revision="lineage-20.0" />  
 </manifest>
