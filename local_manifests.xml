@@ -18,9 +18,9 @@
            revision="fourteen-test" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_illinois"
+           name="kernel_motorola_liber"
            remote="frost"
-           revision="fushiguro" />
+           revision="sap" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
