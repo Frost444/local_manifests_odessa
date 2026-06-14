@@ -25,7 +25,7 @@
   <project path="hardware/motorola"
            name="android_hardware_motorola"
            remote="LineagOS"
-           revision="lineage-23.0" />
+           revision="lineage-23.2" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
