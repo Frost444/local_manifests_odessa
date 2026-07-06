@@ -15,7 +15,7 @@
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
            remote="frost"
-           revision="15.0-QPR2" />
+           revision="17" />
            
   <project path="kernel/motorola/sm6150"
            name="kernel_motorola_liber"
